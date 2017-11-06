@@ -51,3 +51,4 @@ activemq-data/
 db-1.log
 db.data
 db.redo
+.DS_Store
