@@ -47,3 +47,7 @@ flows/
 target/
 src/main/api/.repository/ 
 derby.log
+activemq-data/
+db-1.log
+db.data
+db.redo
